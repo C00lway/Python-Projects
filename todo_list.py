@@ -53,26 +53,5 @@ def main():
             remove_task(tasks)
         else:
             break
-#loop
-    #print menu
-    # get user choice
-    # if choice == 1
-    #   Display tasks
-    # else choice == 2
-    #   add a task
-    #   ask the user for the taks
-    #   add it to a list
-    #else choice == 3
-    #   Remove task
-    #   loop
-    #       Ask the user for a task number
-    #       validate the task number
-    #       if invalid print error
-    #       else remove the given task, break
-    #else choice == 4
-    #   break
-    #Else
-    #   print an error
-
 if __name__=='__main__':
     main()
